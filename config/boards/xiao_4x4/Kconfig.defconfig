@@ -1,0 +1,6 @@
+if SHIELD_XIAO_4X4
+
+  config ZMK_KEYBOARD_NAME
+    default "xiao_4x4"
+
+endif
